@@ -21,3 +21,6 @@ $ npm start or node server.js
 # Run signaling server (ICE Candidate)
 $ node peer-server.js
 ```
+
+# Run the php file
+ [http://localhost/WebRTC-PEERJS-video-audio-chat-multiple-connections/index.php](http://localhost/WebRTC-PEERJS-video-audio-chat-multiple-connections/index.php)
